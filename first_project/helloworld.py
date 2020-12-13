@@ -1,1 +1,3 @@
-print('helloworld')
+x = 10
+
+print(x)
